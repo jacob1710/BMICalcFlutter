@@ -1,3 +1,6 @@
+# My Completed version, following the course
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
